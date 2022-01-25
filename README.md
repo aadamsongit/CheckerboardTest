@@ -2,6 +2,7 @@
 # Instructions #
 
 ===============
+
 Your program should have the following output
 
 http://localhost:5000 - should display 8 by 8 checkerboard
